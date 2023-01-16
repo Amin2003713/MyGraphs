@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGraphs", "MyGraphs\MyGraphs.csproj", "{1BAA6675-A804-4055-AB25-F04E610A3295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BAA6675-A804-4055-AB25-F04E610A3295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAA6675-A804-4055-AB25-F04E610A3295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAA6675-A804-4055-AB25-F04E610A3295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAA6675-A804-4055-AB25-F04E610A3295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09B52A1A-7EF5-4179-A3D7-52F5D0DB9056}
+	EndGlobalSection
+EndGlobal
